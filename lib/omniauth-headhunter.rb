@@ -7,4 +7,4 @@ module OmniAuth
   end
 end
 
-OmniAuth.config.add_camelization 'Headhunter', 'Headhunter'
+OmniAuth.config.add_camelization 'headhunter', 'Headhunter'

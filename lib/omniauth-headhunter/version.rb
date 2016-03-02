@@ -1,5 +1,5 @@
-module Omniauth
+module OmniAuth
   module Headhunter
-    VERSION = "0.1.0"
+    VERSION = "1.0"
   end
 end
